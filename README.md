@@ -1,5 +1,11 @@
 # OpenMarket
 
+[![GitHub Pages: live](https://img.shields.io/badge/GitHub_Pages-live-brightgreen?logo=github)](https://ds4cabs.github.io/OpenMarket/)
+![CABS: 2026](https://img.shields.io/badge/CABS-2026-6f42c1)
+![status: MVP in progress](https://img.shields.io/badge/status-MVP_in_progress-f1c40f)
+![type: Interactive Dashboard](https://img.shields.io/badge/type-Interactive_Dashboard-1f6feb)
+![domain: Commercial Intelligence](https://img.shields.io/badge/domain-Commercial_Intelligence-0aa)
+
 **Intern:** Jason Zhou
 **Project Type:** Interactive Dashboard
 
